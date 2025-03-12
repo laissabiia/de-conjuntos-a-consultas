@@ -7,7 +7,7 @@ Vale destacar que o material não se aprofunda nos conceitos matemáticos, utili
 
 Este projeto foi desenvolvido para a disciplina de Produção de Material Didático em Computação do curso de Licenciatura em Computação da Universidade de Brasília. A autora, Laíssa Soares, discente do curso, foi supervisionada pelos professores Dra. Maria De Fátima Ramos Brandão e Dr. Jonathan Rosa Moreira.
 
-## 📜 Sobre o Livro
+### 📜 Sobre o Livro
 - **Autor:** Laíssa Soares
 - **Supervisão:** Dra. Maria De Fátima Ramos Brandão e Dr. Jonathan Rosa Moreira
 - **Formato:** PDF  
