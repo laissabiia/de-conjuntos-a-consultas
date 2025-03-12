@@ -34,7 +34,7 @@ Como já mencionado acima, devido a necessidade da disciplina da Universidade, o
 ✅ Explicações mais detalhadas sobre conceitos complexos.
 
 # ⚖ Licença
-Este material está disponível sob a licença **Creative Commons**, o que significa que você pode:
+Este material está disponível sob a licença **Creative Commons**, o que significa que você pode:<br>
 ✔ Usar e compartilhar livremente;<br>
 ✔ Modificar e adaptar o material autoral como quiser;<br>
 ✔ Desde que dê os devidos créditos e que não tenha propósitos financeiros.
