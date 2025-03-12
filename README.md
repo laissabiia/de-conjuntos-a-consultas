@@ -19,22 +19,22 @@ Este projeto foi desenvolvido para a disciplina de Produção de Material Didát
 - Conceitos iniciais de SQL
 
 # 📂 Estrutura do Livro Didático
-🔹 Capítulo 1 - Introdução ao universo dos Conjuntos
-🔹 Capítulo 2 - Conceitos Matemáticos em Ação
-🔹 Capítulo 3 - Da Matemática ao Computador
-🔹 Capítulo 4 - SQL - A Linguagem dos Dados
-🔹 Capítulo 5 - Exercícios Práticos
+🔹 Capítulo 1 - Introdução ao universo dos Conjuntos<br>
+🔹 Capítulo 2 - Conceitos Matemáticos em Ação<br>
+🔹 Capítulo 3 - Da Matemática ao Computador<br>
+🔹 Capítulo 4 - SQL - A Linguagem dos Dados<br>
+🔹 Capítulo 5 - Exercícios Práticos<br>
 🔹 Chegamos ao fim...  
 
 # 📚 Versão para Professores
 Como já mencionado acima, devido a necessidade da disciplina da Universidade, o material foi pensado e escrito de para apoiar professores da disciplina de Banco de Dados. Por isso, ele possui:
-✅ Margens comentadas com explicações adicionais para cada seção;
-✅ Sugestões de atividades e exercícios práticos resolvidos;
-✅ Dicas pedagógicas para facilitar o ensino de SQL;
+✅ Margens comentadas com explicações adicionais para cada seção;<br>
+✅ Sugestões de atividades e exercícios práticos resolvidos;<br>
+✅ Dicas pedagógicas para facilitar o ensino de SQL;<br>
 ✅ Explicações mais detalhadas sobre conceitos complexos.
 
 # ⚖ Licença
 Este material está disponível sob a licença **Creative Commons**, o que significa que você pode:
-✔ Usar e compartilhar livremente;
-✔ Modificar e adaptar o material autoral como quiser;
+✔ Usar e compartilhar livremente;<br>
+✔ Modificar e adaptar o material autoral como quiser;<br>
 ✔ Desde que dê os devidos créditos e que não tenha propósitos financeiros.
