@@ -27,7 +27,7 @@ Este projeto foi desenvolvido para a disciplina de Produção de Material Didát
 🔹 Chegamos ao fim...  
 
 # 📚 Versão para Professores
-Como já mencionado acima, devido a necessidade da disciplina da Universidade, o material foi pensado e escrito de para apoiar professores da disciplina de Banco de Dados. Por isso, ele possui:
+Como já mencionado acima, devido a necessidade da disciplina da Universidade, o material foi pensado e escrito de para apoiar professores da disciplina de Banco de Dados. Por isso, ele possui:<br>
 ✅ Margens comentadas com explicações adicionais para cada seção;<br>
 ✅ Sugestões de atividades e exercícios práticos resolvidos;<br>
 ✅ Dicas pedagógicas para facilitar o ensino de SQL;<br>
